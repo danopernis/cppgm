@@ -1,0 +1,27 @@
+[submodule "pa1"]
+	path = pa/pa1
+	url = git://git.cppgm.org/pa1.git
+[submodule "pa2"]
+	path = pa/pa2
+	url = git://git.cppgm.org/pa2.git
+[submodule "pa3"]
+	path = pa/pa3
+	url = git://git.cppgm.org/pa3.git
+[submodule "pa4"]
+	path = pa/pa4
+	url = git://git.cppgm.org/pa4.git
+[submodule "pa5"]
+	path = pa/pa5
+	url = git://git.cppgm.org/pa5.git
+[submodule "pa6"]
+	path = pa/pa6
+	url = git://git.cppgm.org/pa6.git
+[submodule "pa7"]
+	path = pa/pa7
+	url = git://git.cppgm.org/pa7.git
+[submodule "pa8"]
+	path = pa/pa8
+	url = git://git.cppgm.org/pa8.git
+[submodule "pa9"]
+	path = pa/pa9
+	url = git://git.cppgm.org/pa9.git
